@@ -2,7 +2,7 @@
 
 **`Analista de Dados | Business Intelligence | Automação & Data Analytics`**
 
-Sou Analista de Dados Pleno, com experiência em Business Intelligence, automação de processos, análise, validação e monitoramento de dados. Atuo com desenvolvimento de soluções analíticas utilizando Power BI, SQL, Python e Excel Avançado, apoiando a tomada de decisão, controle de indicadores e melhoria contínua de processos operacionais.
+Analista de Dados, com experiência em Business Intelligence, automação de processos, análise, validação e monitoramento de dados. Atuo com desenvolvimento de soluções analíticas utilizando Power BI, SQL, Python, apoiando a tomada de decisão, controle de indicadores e melhoria contínua de processos operacionais.
 
 ---
 

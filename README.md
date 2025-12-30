@@ -27,24 +27,28 @@ Analista de Dados, com experiência em Business Intelligence, automação de pro
 ### 🛠️ Linguagem e Tecnologias
 
 <p align="left">
-  <img align="left" alt="PostgreSQL" width="32" height="32" style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-
   <img align="left" alt="Power BI" width="32" height="32" style="padding-right:10px;"
   src="https://img.icons8.com/fluency/48/power-bi-2021.png"/>
+
+  <img align="left" alt="Microsoft Fabric" width="32" height="32" style="padding-right:10px;"
+  src="https://github.com/FabricTools/fabric-icons/raw/main/node_modules/%40fabric-msft/svg-icons/dist/svg/fabric_32_color.svg"/>
 
   <img align="left" alt="Python" width="32" height="32" style="padding-right:10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
-  <img align="left" alt="SQL Server" width="32" height="32" style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
-
   <img align="left" alt="Git" width="32" height="32" style="padding-right:10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 
-  <img align="left" alt="Azure" width="32" height="32" style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
+  <img align="left" alt="HTML5" width="32" height="32" style="padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+
+  <img align="left" alt="CSS3" width="32" height="32" style="padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+
+  <img align="left" alt="Excel" width="32" height="32" style="padding-right:10px;"
+  src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>
 </p>
+
 
 
 

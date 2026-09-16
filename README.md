@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Fábio Henrique Ferreira Elias
+# Fábio Henrique Ferreira Elias
 
 **`Analista de Dados | Business Intelligence | Automação & Data Analytics`**
 

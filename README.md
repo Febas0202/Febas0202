@@ -27,8 +27,6 @@ Analista de Dados, com experiência em Business Intelligence, automação de pro
 ### 🛠️ Linguagem e Tecnologias
 
 <p align="left">
-  <img align="left" alt="Power BI" width="32" height="32" style="padding-right:10px;"
-  src="https://img.icons8.com/fluency/48/power-bi-2021.png"/>
 
   <img align="left" alt="Microsoft Fabric" width="32" height="32" style="padding-right:10px;"
   src="https://github.com/FabricTools/fabric-icons/raw/main/node_modules/%40fabric-msft/svg-icons/dist/svg/fabric_32_color.svg"/>
